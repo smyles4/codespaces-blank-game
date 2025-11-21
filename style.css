@@ -1,9 +1,9 @@
 body {
-  background:rgb(209, 204, 239) ;}
+  background:rgb(209, 116, 116) ;}
 
 
   fieldset {
-      border: 2px solid #6a5acd;
+      border: 2px solid #d76171;
       border-radius: 8px;
       padding: 1.5rem;
       max-width: 300px;
@@ -13,9 +13,9 @@ body {
     }
 
     legend {
-      font-size: 1.1rem;
+      font-size: 1.1 rem;
       font-weight: 600;
-      color: #483d8b;
+      color: #000000;
       padding: 0 0.5rem;
     }
 
@@ -33,7 +33,7 @@ body {
     }
 
     input[type="radio"] {
-      accent-color: #6a5acd;
+      accent-color: #c95050;
       margin-right: 0.5rem;
       transform: scale(1.2);
       vertical-align: middle;
@@ -41,16 +41,16 @@ body {
 
     /* Add a nice hover and focus style */
     label:hover {
-      color: #6a5acd;
+      color: #ef6161;
     }
 
     input[type="radio"]:focus + label {
-      outline: 2px dashed #6a5acd;
+      outline: 2px dashed #ffffff;
       outline-offset: 2px;
     }
 
     .button-class {
-			background-color: #705dd0;
+			background-color: #dd5959;
 			/* Green */
 			border: 5px;
 			color: white;

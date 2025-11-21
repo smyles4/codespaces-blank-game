@@ -30,6 +30,7 @@ three=three +1;
 
 if(aries.checked){
 seven=seven +1;
+console.log(seven);
 }else if (tuarus.checked){
 three=three +1;
 }else if(pisces.checked){
