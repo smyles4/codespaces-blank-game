@@ -1,9 +1,9 @@
 body {
-  background:rgb(209, 116, 116) ;}
+  background:rgb(202, 201, 255) ;}
 
 
   fieldset {
-      border: 2px solid #d76171;
+      border: 2px solid #443cb8;
       border-radius: 8px;
       padding: 1.5rem;
       max-width: 300px;
@@ -33,7 +33,7 @@ body {
     }
 
     input[type="radio"] {
-      accent-color: #c95050;
+      accent-color: #000000;
       margin-right: 0.5rem;
       transform: scale(1.2);
       vertical-align: middle;
@@ -41,7 +41,7 @@ body {
 
     /* Add a nice hover and focus style */
     label:hover {
-      color: #ef6161;
+      color: #000000;
     }
 
     input[type="radio"]:focus + label {
@@ -50,7 +50,7 @@ body {
     }
 
     .button-class {
-			background-color: #dd5959;
+			background-color: #c6b7ff;
 			/* Green */
 			border: 5px;
 			color: white;
